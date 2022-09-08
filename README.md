@@ -20,4 +20,4 @@ Antes de mais nada, é importante ressaltar que este projeto não é de minha au
 
 ## Aprendizados
 
-Ao fazer os exemplos contidos neste projeto, 
+Durante a realização deste projeto, estou aprendendo mais sobre HTML5 e CSS3, e os exemplos são focados na parte prática, o que ajuda a aprender mais rápido 
