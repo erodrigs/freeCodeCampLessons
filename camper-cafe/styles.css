@@ -12,6 +12,7 @@ body {
   background-color: burlywood;
   margin: 0 auto 0 auto;
   padding: 20px;
+  max-width: 500px;
 }
 
 .flavor, .dessert {
